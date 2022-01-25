@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-- Senior Student as Rutgers University New Brunswick
+- Senior at Rutgers University New Brunswick
 - Computer Science Major
 
 ### Programming Languages
@@ -11,5 +11,5 @@
 
 ### Interests
 - Data Science
-- GUIs
+- GUI Software
 - Web Development
