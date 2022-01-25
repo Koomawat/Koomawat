@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-### About Me
+###### About Me
 - Senior at Rutgers University New Brunswick
 - Computer Science Major
 
-### Programming Languages
+###### Programming Languages
 - Python
 - Java
 - Learning TypeScript/JavaScript
 
-### Interests
+###### Interests
 - Data Science
 - GUI Software
 - Web Development
