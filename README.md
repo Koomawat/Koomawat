@@ -7,7 +7,9 @@
 ##### Programming Languages
 - Python
 - Java
-- Learning TypeScript/JavaScript
+- C/C++
+- HTML/CSS
+- Learning TypeScript
 
 ##### Interests
 - Data Science
