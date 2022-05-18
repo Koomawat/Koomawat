@@ -8,8 +8,12 @@
 - Python
 - Java
 - C/C++
+- R
 - HTML/CSS
-- Learning TypeScript
+
+##### What I'm Learning
+- TypeScript
+- AWS (Cloud Practioner)
 
 ##### Interests
 - Data Science
