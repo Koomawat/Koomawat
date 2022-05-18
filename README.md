@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### About Me
-- Senior at Rutgers University New Brunswick
+- Rutgers University New Brunswick Graduate May 2022
 - Computer Science Major
 
 ##### Programming Languages
