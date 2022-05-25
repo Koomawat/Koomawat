@@ -14,6 +14,8 @@
 ##### What I'm Learning
 - TypeScript
 - AWS (Cloud Practioner)
+- Spring Boot
+- REST API
 
 ##### Interests
 - Data Science
