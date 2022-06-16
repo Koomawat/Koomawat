@@ -13,6 +13,7 @@
 
 ##### What I'm Learning
 - TypeScript
+- React
 - AWS (Cloud Practioner)
 - Spring Boot
 - REST API
